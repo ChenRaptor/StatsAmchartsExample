@@ -1,0 +1,87 @@
+html,body {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background: #272e39;
+    overflow-x: hidden;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+*,::before,::after {
+  margin: 0;
+  padding: 0;
+}
+
+#app > article {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #00bfff;
+}
+
+.next {
+  position: absolute;
+  top: calc(50% - 20px);
+  height: 50px;
+  width: 50px;
+  right: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #333c4b;
+  border-radius: 50%;
+  border: 0;
+  cursor: pointer;
+}
+.next svg {
+  height: 25px;
+}
+
+
+.prev {
+  position: absolute;
+  top: calc(50% - 20px);
+  height: 50px;
+  width: 50px;
+  left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #333c4b;
+  border-radius: 50%;
+  border: 0;
+  cursor: pointer;
+}
+
+.prev svg {
+  height: 25px;
+}
+
+#conclusion, #intro {
+  color: #fff;
+}
+
+#conclusion > p, #intro > p{
+  width: 80%;
+  padding: 10px;
+}

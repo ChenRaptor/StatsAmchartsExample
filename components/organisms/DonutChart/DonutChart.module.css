@@ -1,0 +1,21 @@
+.DonutChart > .unit {
+    color:#fff;
+}
+
+.DonutChart > .comment {
+    color:#fff;
+}
+
+.DonutChart > .title {
+    color:#fff;
+}
+
+
+.DonutChart {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}

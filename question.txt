@@ -1,0 +1,17 @@
+    //"Y a-t-il une corrélation entre la matière principale favorite et la matière secondaire favorite "
+    //"Est-ce que les matières favorites ont un lien avec le genre de la personne ?"
+
+    1)	Les personnes qui aiment l’électro aiment-ils la musique classique ?
+
+2)	Existe-t-il une corrélation entre la matière principale favorite et la matière secondaire favorite ?
+3)	Est-ce que les matières favorites ont un lien avec le genre de la personne ?
+
+
+4)	Est-ce que les personnes qui ont EPS en matière favorite font beaucoup de sport ?
+
+
+5)	Est-ce qu’il y a une corrélation entre le fait d’aimer les films d’actions et le fait de jouer au jeux-vidéo ?
+
+
+
+6)	Est-ce qu’il y a corrélation entre aimer les films de science-fiction et aimer les disciplines scientifiques (Maths/Info/SVT/Physique) ?

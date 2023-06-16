@@ -1,0 +1,9 @@
+Pour lancer le site vous n'avez pas besoin sur wamp ou xamp, vous devez juste faire les commande suivante dans le terminale vscode:
+
+npm install
+
+puis vous ferrez:
+
+npm run dev
+
+Mettez vous sur le port du localhost qui s'est ouvert ( souvent: http://localhost:3000)

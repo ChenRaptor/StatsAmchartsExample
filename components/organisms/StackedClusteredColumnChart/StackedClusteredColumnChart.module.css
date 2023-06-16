@@ -1,0 +1,25 @@
+.StackedClusteredColumnChart > .unit {
+    color:#fff;
+}
+
+.StackedClusteredColumnChart > .comment {
+    color:#fff;
+}
+
+.StackedClusteredColumnChart > .title {
+    color:#fff;
+}
+
+
+.StackedClusteredColumnChart {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.StackedClusteredColumnChart p{
+    padding: 10px 60px;
+}

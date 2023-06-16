@@ -1,0 +1,25 @@
+.BubbleChart > .unit {
+    color:#fff;
+}
+
+.BubbleChart > .comment {
+    color:#fff;
+}
+
+.BubbleChart > .title {
+    color:#fff;
+}
+
+
+.BubbleChart {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.BubbleChart p{
+    padding: 10px 60px;
+}
